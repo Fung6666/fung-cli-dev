@@ -1,3 +1,5 @@
 node_modules
+**/__test__/**
+*.test.*
 
 packages/**/node_modules
